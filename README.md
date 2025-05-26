@@ -60,4 +60,6 @@ Developed by [Aphiwe](st10479801@vcconnect.edu.za)
 ## 📜 License
 
 This project is for educational use only. Feel free to modify it and learn!
-link to the video: https://youtube.com/shorts/OaQ94PCfJj4?feature=share
+link to the video: https://youtube.com/shorts/OaQ94PCfJj4?feature=
+github code: https://github.com/AphiweNgcobo03/MultipleChoiceQuiz.git
+github code
