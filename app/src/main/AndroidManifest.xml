@@ -13,6 +13,14 @@
         android:theme="@style/Theme.MultipleChoiceQuiz"
         tools:targetApi="31">
         <activity
+            android:name=".Questions"
+            android:exported="false" />
+
+        <activity
+            android:name=".scoreScreen"
+            android:exported="false" />
+
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
