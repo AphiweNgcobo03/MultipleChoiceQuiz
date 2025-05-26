@@ -60,4 +60,4 @@ Developed by [Aphiwe](st10479801@vcconnect.edu.za)
 ## 📜 License
 
 This project is for educational use only. Feel free to modify it and learn!
-//this readme file was created by chatgpt
+link to the video: https://youtube.com/shorts/OaQ94PCfJj4?feature=share
